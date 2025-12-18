@@ -1,0 +1,9 @@
+[submodule "book-client"]
+	path = microservices/book-client
+	url = https://github.com/fabriciolfj/app-loan-book-client-grpc.git
+[submodule "services/book-client"]
+	path = services/book-client
+	url = https://github.com/fabriciolfj/app-loan-book-client-grpc.git
+[submodule "services/loan-book"]
+	path = services/loan-book
+	url = https://github.com/fabriciolfj/app-book-grpc.git
